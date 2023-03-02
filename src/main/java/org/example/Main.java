@@ -8,5 +8,10 @@ public class Main {
         //wasd
         //wasd
         //wasd
+        //wasd
+        //wasd
+        //wasd
+
+        //waasd
     }
 }
